@@ -1,115 +1,163 @@
-# Hi there, I'm Adhya Sundaran 👋
+<div align="center">
 
-## Software Engineer
+# Hi 👋, I'm Adhya Sundaran
 
-I'm a passionate **Software Engineer** who enjoys building efficient, scalable, and user-friendly software solutions. I have a strong foundation in software development and continuously strive to improve my skills by learning new technologies and working on challenging projects.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-## 👨‍💻 About Me
-
-- 💼 Software Engineer
-- 🌱 Always learning new technologies and best practices
-- 🚀 Passionate about developing high-quality software
-- 💡 Interested in Full-Stack Development, Software Architecture, and Problem Solving
-- 🤝 Open to collaboration on exciting software projects
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 💫 About Me
 
-### Programming Languages
-- Java
-- Python
-- JavaScript
-- C
-- C++
+```java
+public class Adhya {
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
+    String role = "Software Engineer";
+
+    String[] interests = {
+        "Software Development",
+        "Full Stack Development",
+        "Backend Engineering",
+        "Cloud Computing",
+        "Open Source"
+    };
+
+    String motto = "Write clean code. Build meaningful software.";
+
+}
+```
+
+- 💻 Passionate Software Engineer
+- 🚀 Building scalable and efficient applications
+- 🌱 Continuously learning new technologies
+- ⚡ Strong believer in Clean Code & Best Practices
+- 🤝 Open to collaborating on innovative projects
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
 ### Database
-- MySQL
-- MongoDB
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Software Engineering
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman,docker" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-> *(Replace `YOUR_GITHUB_USERNAME` with your GitHub username.)*
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
-
----
-
-## 📂 Featured Projects
-
-### 🚀 Project 1
-Short description of your project.
-
-**Tech Stack:** Java, Spring Boot, MySQL
+</div>
 
 ---
 
-### 🌐 Project 2
-Short description of your project.
+<div align="center">
 
-**Tech Stack:** React, Node.js, MongoDB
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
----
-
-### 📱 Project 3
-Short description of your project.
-
-**Tech Stack:** JavaScript, HTML, CSS
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🏆 GitHub Trophies
 
-- Building scalable software applications
-- Learning cloud technologies
-- Improving system design skills
-- Contributing to open-source projects
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&column=4"/>
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+</div>
 
 ---
 
-## 💬 Quote
+# 📈 Contribution Graph
 
-> "Code is not just about solving problems; it's about creating solutions that make a difference."
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+# 🎯 Current Goals
 
+- 🚀 Build production-grade software
+- 📚 Master System Design
+- ☁️ Learn Cloud & DevOps
+- 🤖 Explore AI-powered applications
+- 🌍 Contribute to Open Source
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote of the Day
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+**— Harold Abelson**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</div>
