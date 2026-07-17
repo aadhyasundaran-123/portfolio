@@ -1,123 +1,115 @@
-# Hi there 👋, I'm Your Name
+# Hi there, I'm Adhya Sundaran 👋
 
-### Software Developer | Problem Solver | Lifelong Learner
+## Software Engineer
 
-I'm a passionate software developer who enjoys building scalable applications, learning new technologies, and creating software that solves real-world problems. I love writing clean, maintainable code and continuously improving my skills.
-
----
-
-## 🚀 About Me
-
-- 💻 Software Developer
-- 🌱 Currently learning and exploring new technologies
-- 🛠️ Passionate about backend, frontend, and cloud development
-- 🤝 Open to collaborating on open-source and interesting projects
-- 📚 Always learning something new
-- ⚡ Fun Fact: I enjoy solving coding challenges and optimizing performance.
+I'm a passionate **Software Engineer** who enjoys building efficient, scalable, and user-friendly software solutions. I have a strong foundation in software development and continuously strive to improve my skills by learning new technologies and working on challenging projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+- 💼 Software Engineer
+- 🌱 Always learning new technologies and best practices
+- 🚀 Passionate about developing high-quality software
+- 💡 Interested in Full-Stack Development, Software Architecture, and Problem Solving
+- 🤝 Open to collaboration on exciting software projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+---
 
-### Frontend
+## 🛠️ Technical Skills
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- C
+- C++
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
 
 ### Database
+- MySQL
+- MongoDB
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- REST APIs
 
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Engineering
+- Database Management Systems
+- Operating Systems
+- Computer Networks
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+> *(Replace `YOUR_GITHUB_USERNAME` with your GitHub username.)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
 
 ---
 
-## 📊 Most Used Languages
+## 📂 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+### 🚀 Project 1
+Short description of your project.
+
+**Tech Stack:** Java, Spring Boot, MySQL
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌐 Project 2
+Short description of your project.
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"
-  />
-</p>
+**Tech Stack:** React, Node.js, MongoDB
+
+---
+
+### 📱 Project 3
+Short description of your project.
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable software applications
+- Learning cloud technologies
+- Improving system design skills
+- Contributing to open-source projects
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://YOUR_WEBSITE.com)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your.email@example.com
 
 ---
 
-## 💡 Current Focus
+## 💬 Quote
 
-- Building scalable full-stack applications
-- Learning cloud-native technologies
-- Contributing to open-source
-- Writing clean, maintainable code
+> "Code is not just about solving problems; it's about creating solutions that make a difference."
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
